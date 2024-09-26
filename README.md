@@ -1,7 +1,3 @@
-# Data-visualization
-Here is a `README.md` file you can use for your GitHub repository:
-
-```md
 # Data Visualization Using Pandas
 
 This project showcases the use of **Pandas** for data visualization and analysis. It involves working with a movie dataset from TMDB (The Movie Database), and the goal is to analyze and present insights from the dataset through various visualizations.
@@ -47,15 +43,13 @@ Make sure to unzip the file before running the notebook.
 ### GitHub Links
 
 - **Instructor's GitHub:** [https://github.com/Jamil226](https://github.com/Jamil226)
-- **Your GitHub:** [Your GitHub link here]
+- **Your GitHub:** [https://github.com/Zainulabdeenoffical](https://github.com/Zainulabdeenoffical)
 
 ## Author
 
-This project was created by **[Your Name]** as part of an educational data visualization project guided by **Muhammad Jamil**.
+This project was created by **M Zain UL Abideen** as part of an educational data visualization project guided by **Muhammad Jamil**.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
-Feel free to replace `[M Zain UL Abideen]` and `[https://github.com/Zainulabdeenoffical]` with your details before uploading it to GitHub.
